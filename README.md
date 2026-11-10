@@ -32,7 +32,7 @@
 | Programming | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Jupyter |
 | Machine learning | Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, Naive Bayes, SVM, K-Means, PCA |
 | Model evaluation | Train-test split, cross-validation, GridSearchCV, confusion matrix, precision, recall and F1-score |
-| AI & automation | n8n, LangChain, OpenAI, AI agents, Generative AI, prompt engineering, workflow automation |
+| AI & automation | n8n, AI agents, Generative AI, prompt engineering, workflow automation |
 | Analysis | Data cleaning, EDA, RFM segmentation, cohort retention, churn analysis, predictive modelling |
 
 ## Get in touch
