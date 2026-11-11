@@ -16,7 +16,7 @@
 
 ## About me
 
-- 🎓 20 years old and building my career in data analytics and data science
+- 🎓 23 years old and building my career in data analytics and data science
 - 🔍 I like finding the story in the numbers: why customers leave, what sells, where the risk is
 - 🤖 Learning machine learning to move from explaining what happened to predicting what happens next
 - 🛠️ I build end-to-end work: cleaning data, analysing it, designing dashboards, and building models
